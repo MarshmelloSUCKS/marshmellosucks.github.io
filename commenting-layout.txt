@@ -1,0 +1,61 @@
+COMMENTING LAYOUT:
+
+    I know I am unlikely to use this layout for my pages, but in the event that I want a clean page, here I go.
+
+    Let's use the INDEX/HOMEPAGE for an example, mainly because it's the only one I've fully commented.
+
+-First off, at the top of the page, you put the description. Since the Index page is the homepage, let's use <!--INDEX/HOMEPAGE-->.
+
+-Then, for the favicon, use <!--Favicon-->.
+
+-For any objects, describe what it is. For example, if it's a flash media player, comment <!--Flash Media Player>.
+
+-For the page header, do <!--Header-->. Note that this section also contains links to the Index, Scamboard, and Snake game.
+
+-After the <hr noshade> that is placed after the header, describe what the paragraph is. I.e: if the paragraph is an introducion, comment <!--Intro-->.
+
+-For pictures, videos, sound clips, or anything else, describe what they are. For example, if you have a cat photo on the page, comment <!--Cat picture-->.
+
+-Describe what other paragraphs are about.
+
+-For the footer, comment <!--Footer-->.
+
+-For social media links, comment <!--Social media-->.
+
+The end result should look like this:
+
+<head> 
+
+<title> {title content} </title> 
+
+<!--Favicon--><link rel="icon" 
+      type="image/png" 
+      href="https://image.ibb.co/ndFoq0/Copy-of-Untitled-drawing-1.png">
+      
+</head>
+
+<body background='https://image.ibb.co/jpSMpf/BB.png'>
+
+<!--Header--><h1 align='center'><font size='10' face='Times' color=white> <b> {header content} </b></font> </h1>
+<p align=center><sub><font face=Times> <a href='fcmsite.rf.gd'>Homepage</a> <a href="https://fcmsite.rf.gd/scamboard.html">Scamboard</a> <a href=https://fcmsite.rf.gd/snake.html>Snake </a></p>
+
+<hr noshade>
+
+<!--{paragraph topic}-->
+<p align='center'><font size='5' color=white> {paragraph content}
+
+(If needed, add a <hr noshade> to split paragraphs)
+
+<!--{paragraph topic}-->
+<p align=center> {paragraph content}
+<hr noshade>
+
+<!--Closing-->
+<h2 align=center> That's all! Thanks for visiting my site! </h2>
+<hr noshade>
+
+<!--Footer-->   
+<p> <sub> <font size 1> (c) 2018 Ferry Corsten > Marshmello. Written as an HTML only site. View in Internet Explorer 4 or Netscape Navigator for the best experience. </sub>
+  
+<!--Social Media-->
+<!--PayPal--><p align=center> <a href="https://paypal.me/zippn"><img src="https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_266x142.png" alt="Donate via PayPal!" width=66 height=35></a> <!--YouTube--><a href="https://www.youtube.com/channel/UCdNyejvw4XzTfvdCETOf_xw"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Logo_of_YouTube_%282011-2013%29.svg" alt="Visit my YouTube channel!" width=77.5 height=35></a><!--Twitter--><a href="https://twitter.com/GDZippN"><img src="https://www.sketchappsources.com/resources/source-image/twitterlogo_1x.png" alt="Visit my Twitter page!" width=47 height=35></a>

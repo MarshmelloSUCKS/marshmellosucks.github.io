@@ -1,0 +1,69 @@
+Puzzle: fcmsite.rf.gd/crossword-puzzle.png
+
+Across
+2. A system of winds rotating inward to an area of low atmospheric pressure
+3. Rainfall made sufficiently acidic by atmospheric pollution that it causes environmental harm
+7. Air that is cold
+8. Atmospheric moisture
+10. A front represented by a blue triangle and red half circle on a red and blue line
+12. An excess of water
+13. A narrow variable band of very strong predominantly westerly air currents encircling the globe several miles above the earth
+16. Tornado on water
+20. A small rotating windstorm of limited extent
+22. A series of waves in a water body caused by the displacement of a large volume of water
+24. A seasonal prevailing wind in the region of South and Southeast Asia
+25. A form of precipitation consisting of ice pellets
+27. Pellets of frozen rain which fall in showers from cumulonimbus clouds
+28. A front represented by a half circle and triangle on a purple/pink line
+29. A sudden and violent shaking of the ground
+
+
+Down
+
+1. The ratio of the partial pressure of water vapor to the equilibrium vapor pressure of water at a given temperature
+4. A line on a rock surface or the ground that traces a geological fault
+5. A strong wind carrying clouds of sand with it. It's also the name of a song by Darude.
+6. A scale used to rate tornado damage
+7. Represented by blue triangles on a blue line
+9. Represented by red half-circles on a red line
+11. A large body of air that has a similar temperature and moisture property throughout it
+14. Precipitation in the form of small white ice crystals
+15. Moisture condensed from the atmosphere that falls visibly in separate drops
+17. A sudden local flood
+18. Transition zone between two air masses of different density
+19. Movement of air
+21. Air that is warm
+23. The degree or intensity of heat present in a substance or object
+26. A violent destructive whirling wind accompanied by a funnel-shaped cloud
+
+ANSWERS
+6D) Fujita
+8A) Humidity
+19D) Wind
+7D) Coldfront
+9D) Warmfront
+14D) Snow
+7A) Coldair
+21D) Warmair
+11D) Airmass
+18D) Front
+26D) Tornado
+20A) Whirlwind
+22A) Tsunami
+17D) Flashflood
+12A) Flood
+15D) Rain
+13A) Jetstream
+2A) Cyclone
+27A) Hail
+16A) Waterspout
+23D) Temperature
+1D) Relativehumidity
+25A) Sleet
+24A) Monsoon
+5D) Sandstorm
+4D) Faultline
+29A) Earthquake
+3A) Acidrain
+28A) Occludedfront
+10A) Stationaryfront
