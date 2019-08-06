@@ -1,0 +1,54 @@
+body {
+    background-color: #000033;
+}
+div.content {
+    border-style:hidden;
+    background-color:#030396;
+}
+div.text {
+    border-left: 5px solid yellow;
+    padding-left: 10px;
+    background-color: darkgoldenrod;
+    font-size:18px;
+    font-family: "Coda", cursive;
+    color:white;
+}
+p.update {
+    border-left: 5px solid red;
+    padding-left: 5px;
+    background-color: darkred;
+    color: white;
+    text-align: left;
+    font-family: "Blinker", sans-serif
+}
+div.header {
+    background-color: darkgreen;
+    color: white;
+    top: 0;
+    font-family: "Geostar Fill", cursive;
+    text-align: center;
+    padding: 10px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+p.cright {
+    font-family: "Geostar Fill", cursive;
+    text-align: center;
+    font-size: 12px;
+    color: white;
+}
+
+div.img {
+    border-left: 5px solid cyan;
+    padding-left: 10px;
+    background-color: darkcyan;
+    font-size:18px;
+    font-family: "Coda", cursive;
+    color:white;
+}
+a {
+    color: white;
+}
