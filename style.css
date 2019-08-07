@@ -62,8 +62,6 @@ a {
     color: white;
 }
 
-/*Dropdown link*/
-
 /*Set the style of the end text*/
 p.end {
     color: white;
@@ -72,6 +70,9 @@ p.end {
     font-size: 45px;
 }
 
+/*Dropdown link*/
+
+
 /*Set the style of the dropdown link*/
 .dropbtn {
     background-color: darkgreen;
@@ -79,6 +80,7 @@ p.end {
     cursor: pointer;
     font-family: "Geostar Fill", cursive;
     color: white;
+    font-size: 45px;
   }
 
 /*Position dropdown content*/
