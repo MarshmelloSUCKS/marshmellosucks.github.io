@@ -1,10 +1,15 @@
+/*Set the background color*/
 body {
     background-color: #000033;
 }
+
+/*Set the foreground color*/
 div.content {
     border-style:hidden;
     background-color:#030396;
 }
+
+/*Set the text style*/
 div.text {
     border-left: 5px solid yellow;
     padding-left: 10px;
@@ -13,6 +18,8 @@ div.text {
     font-family: "Coda", cursive;
     color:white;
 }
+
+/*Set the update style*/
 p.update {
     border-left: 5px solid red;
     padding-left: 5px;
@@ -21,6 +28,8 @@ p.update {
     text-align: left;
     font-family: "Blinker", sans-serif
 }
+
+/*Set the header style*/
 div.header {
     background-color: darkgreen;
     color: white;
@@ -29,11 +38,8 @@ div.header {
     text-align: center;
     padding: 10px;
 }
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
+
+/*Set the notice style*/
 p.cright {
     font-family: "Geostar Fill", cursive;
     text-align: center;
@@ -41,6 +47,7 @@ p.cright {
     color: white;
 }
 
+/*Set the image block style*/
 div.img {
     border-left: 5px solid cyan;
     padding-left: 10px;
@@ -49,6 +56,65 @@ div.img {
     font-family: "Coda", cursive;
     color:white;
 }
+
+/*Set the link style*/
 a {
     color: white;
 }
+
+/*Dropdown link*/
+
+/*Set the style of the end text*/
+p.end {
+    color: white;
+    text-align: center;
+    font-family: "Geostar Fill", cursive;
+    font-size: 45px;
+}
+
+/*Set the style of the dropdown link*/
+.dropbtn {
+    background-color: darkgreen;
+    border: none;
+    cursor: pointer;
+    font-family: "Geostar Fill", cursive;
+    color: white;
+  }
+
+/*Position dropdown content*/
+  .droplink {
+    position: relative;
+    display: inline-block;
+  }
+
+/*Set the position of the dropdown menu*/
+.droplink-content {
+    display: none;
+    position: relative;
+    background-color: #00862d;
+    color: white;
+    min-width: 160px;
+    box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+
+/*Style links inside the dropdown*/
+.droplink-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+
+/*Change color of links on hover*/
+.droplink-content a:hover {background-color: #0f5; color: black;}
+
+/*Show dropdown menu on hover*/
+.droplink:hover .droplink-content {
+    display: block;
+}
+
+/*Change bgcolor of the dropdown button upon hover*/
+.droplink:hover .dropbtn {
+    background-color: #009431;
+  }
