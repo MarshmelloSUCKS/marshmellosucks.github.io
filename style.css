@@ -29,6 +29,17 @@ p.update {
     font-family: "Blinker", sans-serif
 }
 
+/*Set the body style on 404.html*/
+p.notfound {
+    border-left: 5px solid red;
+    padding-left: 5px;
+    background-color: darkred;
+    color: white;
+    text-align: left;
+    font-family: "Blinker", sans-serif;
+    size: 18px;
+}
+
 /*Set the header style*/
 div.header {
     background-color: darkgreen;
