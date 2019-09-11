@@ -68,6 +68,16 @@ div.img {
     color:white;
 }
 
+/*Set the style of short rants*/
+p.shortrant {
+    border-left: 5px solid cyan;
+    padding-left: 10px;
+    background-color: #007d6c;
+    font-size:18px;
+    font-family: "Coda", cursive;
+    color:white;
+}
+
 /*Set the link style*/
 a {
     color: white;
