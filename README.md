@@ -1,1 +1,1 @@
-Just view the index
+Just view the [index](https://marshmellosucks.github.io)
