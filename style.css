@@ -85,6 +85,11 @@ a {
     color: white;
 }
 
+/*Set style of active and visited links*/
+a:hover, a:active, a:visited {
+ color=lightgrey   
+}
+
 /*Set the style of the end text*/
 p.end {
     color: white;
