@@ -1,0 +1,22 @@
+FOUR SQUARE: Why GNU/Linux is the best operating system
+
+STEPS:
+    1) Main idea 
+    2) Supporting ideas 
+    3) Add details
+    4) Write summary 
+    5) Add transition words
+    6) Supporting ideas -> sentences
+    7) Add descriptive details
+
+SENTENCES:
+
+    In my opinion, GNU/Linux is the superior operating system.
+
+    First of all, there are so many options! No matter who you are, there's a distro for you. The casual laptop user, someone migrating from Windows, anime fans, and even Hannah Montana fans have a distro just for them. From audio/video production to education, every distro has its purpose.
+
+    Secondly, it's highly customizable. If you want a system-wide dark theme, Linux has it. If you want an incredibly outdated looking desktop, Linux has it. If you want a gay pride themed setup, you can make it happen in Linux. From changing the system theme to straight up using a different desktop environment, it's easy to make Linux your own.
+
+    And finally, it's incredibly stable! There's a reason the web runs on Linux. Even Microsoft uses Linux to run their Azure servers. Once you find that right desktop environment that doesn't crach (*cough cough* Xfce), you could get weeks, months, maybe even years of uptime! I've even experience the stability of Linux myself. I rarely have to restart my laptop (which runs Ubuntu MATE), while I find myself restarting my main PC (running Windows) every other day.
+
+    So, in conclusion, I think GNU/Linux is the superior operating system because tons of distros to choose from, it's highly customizable, and it's highly customizable.
